@@ -4,7 +4,7 @@
   "description": "Convert arabic numbers to roman numerals",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --coverage"
+    "test": "mocha **/*.spec.js"
   },
   "author": "Scott Sauyet <scott@sauyet.com>",
   "license": "MIT",
