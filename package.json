@@ -1,0 +1,15 @@
+{
+  "name": "roman-numerals",
+  "version": "0.1.0",
+  "description": "Convert arabic numbers to roman numerals",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --coverage"
+  },
+  "author": "Scott Sauyet <scott@sauyet.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
